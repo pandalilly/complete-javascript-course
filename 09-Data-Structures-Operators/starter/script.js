@@ -1,5 +1,5 @@
 'use strict';
-//Destrructuring is breaking down the array into smaller bits
+//Destructuring is breaking down the array into smaller bits
 
 const restaurant = {
   name: 'Classico Italiano',
